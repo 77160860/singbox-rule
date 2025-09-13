@@ -1,4 +1,4 @@
-# sing-box-geosite
+# singbox-geosite
 
 在links.txt添加规则集，自动生成 sing-box Source Format。fork后自己添加想要转换的规则集。
 
