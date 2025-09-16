@@ -1,2 +1,1 @@
 https://raw.githubusercontent.com/77160860/proxy/main/me.list
-https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Geosite.txt
