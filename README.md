@@ -8,22 +8,10 @@
 
 ```json
 {
-  "tag": "geosite-wechat",
+  "tag": "geosite-me",
   "type": "remote",
   "format": "source",
-  "url": "https://raw.githubusercontent.com/Toperlock/sing-box-geosite/main/wechat.json",
+  "url": "https://raw.githubusercontent.com/77160860/singbox-geosite/refs/heads/main/rule/me.json",
   "download_detour": "auto"
 }
 ```
-
-# 致谢（排名不分先后）
-
-[@izumiChan16](https://github.com/izumiChan16)
-
-[@ifaintad](https://github.com/ifaintad)
-
-[@NobyDa](https://github.com/NobyDa)
-
-[@blackmatrix7](https://github.com/blackmatrix7)
-
-[@DivineEngine](https://github.com/DivineEngine)
