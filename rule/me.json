@@ -1,6 +1,11 @@
 {
   "rules": [
     {
+      "domain": [
+        "app.localhost.qaq.wiki"
+      ]
+    },
+    {
       "domain_suffix": [
         "360zyx.vip",
         "akamaized.net",
