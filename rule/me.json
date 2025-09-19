@@ -2,7 +2,8 @@
   "rules": [
     {
       "domain": [
-        "app.localhost.qaq.wiki"
+        "app.localhost.qaq.wiki",
+        "cdn.pnup-ls.tcssyw.com"
       ]
     },
     {
