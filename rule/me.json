@@ -3,19 +3,23 @@
     {
       "domain": [
         "app.localhost.qaq.wiki",
-        "cdn.pnup-ls.tcssyw.com"
+        "cdn.pnup-ls.tcssyw.com",
+        "client.wns.windows.com"
       ]
     },
     {
       "domain_suffix": [
+        "182682.xyz",
         "360zyx.vip",
         "akamaized.net",
         "bangumi.ca",
+        "bf8bf.com",
         "bfbfvip.com",
         "browserleaks.com",
         "bttwo.me",
         "cdnlz3.com",
         "cmdns.xyz",
+        "dmmiku.com",
         "dockerproxy.net",
         "dpdns.org",
         "dytt-cinema.com",
@@ -24,11 +28,13 @@
         "enaturehome.com",
         "eu.org",
         "feiwang.cc",
+        "ffzy-plays.com",
         "ffzy-video.com",
         "gh-proxy.com",
         "gh-proxy.net",
         "ghfast.top",
         "greasyfork.org",
+        "guangyingmi.com",
         "haotv.store",
         "hdaxjy.com",
         "heimuer.tv",
@@ -45,6 +51,7 @@
         "lzzyimg.com",
         "macked.app",
         "macked.homes",
+        "miqk.cc",
         "misoso.cc",
         "mjjbox.com",
         "mjjvm.com",
@@ -53,8 +60,10 @@
         "pansearch.me",
         "pp.ua",
         "qkpanso.com",
+        "qrssuv.com",
         "qzz.io",
         "rrcdnbf5.com",
+        "sectigo.pp.ua",
         "tailscale.com",
         "v1.mk",
         "wogg.lol",
@@ -62,6 +71,7 @@
         "wpurl.cc",
         "xpgtv.com",
         "xpgtv.net",
+        "xxooo.cf",
         "yiso.fun",
         "yydsys.top"
       ]
