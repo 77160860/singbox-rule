@@ -3,11 +3,8 @@
     {
       "domain": [
         "10099.com.cn",
-        "app.localhost.qaq.wiki",
         "auth.wosms.cn",
         "captive.apple.com",
-        "cdn.pnup-ls.tcssyw.com",
-        "client.wns.windows.com",
         "dev.10086.cn",
         "jegotrip.com.cn",
         "mdn.open.wo.cn",
@@ -33,7 +30,6 @@
         "cloudflare.182682.xyz",
         "cmdns.xyz",
         "cmpassport.com",
-        "dedyn.io",
         "dmmiku.com",
         "dockerproxy.net",
         "dpdns.org",
@@ -93,6 +89,7 @@
         "qzz.io",
         "rrcdnbf5.com",
         "sectigo.pp.ua",
+        "shrekmedia.org",
         "tailscale.com",
         "tampermonkey.net",
         "v1.mk",
