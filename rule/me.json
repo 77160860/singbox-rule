@@ -1,22 +1,6 @@
 {
   "rules": [
     {
-      "domain": [
-        "10099.com.cn",
-        "auth.wosms.cn",
-        "captive.apple.com",
-        "dev.10086.cn",
-        "jegotrip.com.cn",
-        "mdn.open.wo.cn",
-        "ntp.aliyun.com",
-        "ntp.ntsc.ac.cn",
-        "open.e.189.cn",
-        "opencloud.wostore.cn",
-        "time.apple.com",
-        "time.windows.com"
-      ]
-    },
-    {
       "domain_suffix": [
         "360zyx.vip",
         "akamaized.net",
@@ -29,7 +13,6 @@
         "cdnlz3.com",
         "cloudflare.182682.xyz",
         "cmdns.xyz",
-        "cmpassport.com",
         "dmmiku.com",
         "dockerproxy.net",
         "dpdns.org",
@@ -54,18 +37,12 @@
         "hkybqufgh.com",
         "huohua.live",
         "ibyteimg.com",
-        "icitymobile.mobi",
-        "id6.me",
         "istatmenus.app",
-        "jegotrip.cn",
         "jsdelivr.net",
         "kqgfbs.com",
-        "lan",
         "leijing1.com",
         "libvio.link",
         "linux.do",
-        "local",
-        "localhost",
         "logreporter.com",
         "lzcdn25.com",
         "lzcdn27.com",
@@ -78,8 +55,6 @@
         "misoso.cc",
         "mjjbox.com",
         "mjjvm.com",
-        "msftconnecttest.com",
-        "msftncsi.com",
         "myvideos.info",
         "nanflix.net",
         "nyc.mn",
