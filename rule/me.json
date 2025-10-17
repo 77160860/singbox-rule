@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "182682.xyz",
         "360zyx.vip",
         "akamaized.net",
         "aliapp.org",
@@ -11,10 +12,8 @@
         "browserleaks.com",
         "bttwo.me",
         "cdnlz3.com",
-        "cloudflare.182682.xyz",
         "cmdns.xyz",
         "dmmiku.com",
-        "dockerproxy.net",
         "dpdns.org",
         "dytt-cine.com",
         "dytt-cinema.com",
@@ -38,7 +37,6 @@
         "istatmenus.app",
         "jsdelivr.net",
         "kqgfbs.com",
-        "leijing1.com",
         "libvio.link",
         "linux.do",
         "logreporter.com",
@@ -54,7 +52,6 @@
         "mjjbox.com",
         "mjjvm.com",
         "myvideos.info",
-        "nanflix.net",
         "nyc.mn",
         "ottiptv.cc",
         "pansearch.me",
