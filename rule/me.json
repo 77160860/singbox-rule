@@ -2,6 +2,9 @@
   "rules": [
     {
       "domain_suffix": [
+        ".lan",
+        ".local",
+        ".localhost",
         "182682.xyz",
         "360zyx.vip",
         "akamaized.net",
@@ -63,6 +66,7 @@
         "tailscale.com",
         "tampermonkey.net",
         "v1.mk",
+        "wns.windows.com",
         "wogg.lol",
         "wogg.net",
         "wpurl.cc",
