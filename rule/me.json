@@ -2,13 +2,11 @@
   "rules": [
     {
       "domain": [
+        "10099.com.cn",
         "auth.wosms.cn",
         "captive.apple.com",
         "dev.10086.cn",
-        "gstatic.com",
         "mdn.open.wo.cn",
-        "msftconnecttest.com",
-        "msftncsi.com",
         "ntp.aliyun.com",
         "ntp.ntsc.ac.cn",
         "open.e.189.cn",
@@ -19,7 +17,6 @@
     },
     {
       "domain_suffix": [
-        "10099.com.cn",
         "182682.xyz",
         "360zyx.vip",
         "akamaized.net",
@@ -46,6 +43,7 @@
         "gh-proxy.net",
         "ghfast.top",
         "ghproxy.net",
+        "gstatic.com",
         "guangyingmi.com",
         "haotv.store",
         "hdaxjy.com",
