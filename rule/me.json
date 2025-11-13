@@ -7,17 +7,13 @@
         "captive.apple.com",
         "dev.10086.cn",
         "mdn.open.wo.cn",
-        "ntp.aliyun.com",
-        "ntp.ntsc.ac.cn",
         "open.e.189.cn",
-        "opencloud.wostore.cn",
-        "time.apple.com",
-        "time.windows.com"
+        "opencloud.wostore.cn"
       ]
     },
     {
       "domain_keyword": [
-        "cdn."
+        "cdn"
       ]
     },
     {
