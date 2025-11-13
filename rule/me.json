@@ -16,6 +16,11 @@
       ]
     },
     {
+      "domain_keyword": [
+        "cdn."
+      ]
+    },
+    {
       "domain_suffix": [
         "182682.xyz",
         "360zyx.vip",
@@ -44,6 +49,7 @@
         "gh-proxy.net",
         "ghfast.top",
         "ghproxy.net",
+        "gov.cn",
         "gstatic.com",
         "guangyingmi.com",
         "haotv.store",
@@ -99,6 +105,11 @@
         "yiso.fun",
         "yppan.com",
         "yydsys.top"
+      ]
+    },
+    {
+      "port": [
+        "123"
       ]
     }
   ],
