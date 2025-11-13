@@ -13,7 +13,9 @@
     },
     {
       "domain_keyword": [
-        "cdn"
+        "cdn.",
+        "ntp.",
+        "time."
       ]
     },
     {
@@ -102,11 +104,6 @@
         "yiso.fun",
         "yppan.com",
         "yydsys.top"
-      ]
-    },
-    {
-      "port": [
-        "123"
       ]
     }
   ],
