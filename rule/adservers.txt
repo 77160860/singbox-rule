@@ -9,6 +9,10 @@
 !
 !
 !
+||maxesads.com^
+||mossfast.com^
+||ad-host-backup-*.aliyuncs.com^
+||cleartag.run^
 ||44x.io^
 ||adopsboost.com^$third-party
 ||adunblock.static-cloudflare.workers.dev^
