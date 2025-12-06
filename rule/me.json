@@ -3,12 +3,10 @@
     {
       "domain": [
         "10099.com.cn",
-        "api.lolesports.com",
         "auth.wosms.cn",
         "captive.apple.com",
         "dev.10086.cn",
         "mdn.open.wo.cn",
-        "ocsp.digicert.com",
         "open.e.189.cn",
         "opencloud.wostore.cn",
         "testingcf.jsdelivr.net"
@@ -65,6 +63,7 @@
         "localdomain",
         "localhost",
         "logreporter.com",
+        "lolesports.com",
         "lzcdn25.com",
         "lzcdn27.com",
         "lzpanx.com",
