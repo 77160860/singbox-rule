@@ -8,10 +8,10 @@
 
 ```json
 {
-  "tag": "geosite-me",
+  "tag": "me",
   "type": "remote",
-  "format": "source",
-  "url": "https://raw.githubusercontent.com/77160860/singbox-geosite/main/rule/me.json",
+  "format": "binary",
+  "url": "https://raw.githubusercontent.com/77160860/singbox-geosite/main/rule/me.srs",
   "download_detour": "auto"
 }
 ```
