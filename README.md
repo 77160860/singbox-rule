@@ -11,7 +11,7 @@
   "tag": "geosite-me",
   "type": "remote",
   "format": "source",
-  "url": "https://raw.githubusercontent.com/77160860/singbox-geosite/refs/heads/main/rule/me.json",
+  "url": "https://raw.githubusercontent.com/77160860/singbox-geosite/main/rule/me.json",
   "download_detour": "auto"
 }
 ```
