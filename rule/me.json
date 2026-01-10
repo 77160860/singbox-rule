@@ -2,23 +2,12 @@
   "rules": [
     {
       "domain": [
-        "auth.wosms.cn",
-        "captive.apple.com",
-        "dev.10086.cn",
-        "localhost.ptlogin2.qq.com",
-        "localhost.sec.qq.com",
-        "localhost.work.weixin.qq.com",
-        "mdn.open.wo.cn",
-        "open.e.189.cn",
-        "opencloud.wostore.cn",
         "testingcf.jsdelivr.net",
-        "time.windows.com",
         "yinhai.aiinyue.com"
       ]
     },
     {
       "domain_suffix": [
-        "10099.com.cn",
         "182682.xyz",
         "360zyx.vip",
         "akamaized.net",
@@ -54,10 +43,7 @@
         "ibyteimg.com",
         "istatmenus.app",
         "kqgfbs.com",
-        "lan",
         "libvio.link",
-        "local",
-        "localhost",
         "logreporter.com",
         "lzcdn25.com",
         "lzcdn27.com",
@@ -65,14 +51,11 @@
         "lzzyimg.com",
         "macked.app",
         "macked.homes",
-        "market.xiaomi.com",
         "mihdr.top",
         "miqk.cc",
         "misoso.cc",
         "mjjbox.com",
         "mjjvm.com",
-        "msftconnecttest.com",
-        "msftncsi.com",
         "myvideos.info",
         "nyc.mn",
         "ottiptv.cc",
@@ -91,8 +74,6 @@
         "tmdb.org",
         "trakt.tv",
         "v1.mk",
-        "wechat.com",
-        "weixin.qq.com",
         "wogg.lol",
         "wogg.net",
         "wpurl.cc",
